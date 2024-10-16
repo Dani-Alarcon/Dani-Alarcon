@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This%20is%20my%20profile)](https://git.io/typing-svg)
-
-
 # Hi there! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This%20is%20my%20profile)](https://git.io/typing-svg)
 
 I'm Dani Alarcon, a passionate learner currently enrolled in the ITB (Institut Tecnologic de Barcelona), pursuing a degree in DAW (Desarrollo de Aplicaciones Web).
 
