@@ -53,7 +53,7 @@ Let's connect and share our passion for the ever-evolving world of web developme
 <br>
 <details>
   <summary><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="20"> Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanTeixido&layout=compact" />
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniAlarcon1&layout=compact" />
    <br />
 </details>
 
